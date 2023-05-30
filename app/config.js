@@ -18,7 +18,7 @@ module.exports = {
       return callback();
     });
   },
-
+  //test commit
   getDb: function () {
    // console.log(dbConnection);
     return dbConnection;
